@@ -1,4 +1,4 @@
-package at.ac.fh_kufstein.uebung;
+package at.ac.fh_kufstein.uebung.Aufgabe1;
 
 import javax.swing.*;
 
